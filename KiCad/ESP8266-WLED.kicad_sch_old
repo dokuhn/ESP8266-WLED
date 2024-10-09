@@ -4072,15 +4072,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C77055"
-			(at 142.875 139.0649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d7b0fff0-77ee-4838-9395-31e4a8e9385a")
 		)
@@ -4150,7 +4141,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7171"
+		(property "LCSC" "C2932476"
 			(at 105.791 55.9816 0)
 			(effects
 				(font
@@ -4704,7 +4695,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7171"
+		(property "LCSC" "C2932476"
 			(at 145.796 55.9816 0)
 			(effects
 				(font
@@ -4868,15 +4859,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C116677"
-			(at 189.357 50.1649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2f427125-76c7-4d1b-8369-44b3b8d0227b")
 		)
@@ -4940,15 +4922,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C116677"
-			(at 181.102 50.1649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5156,15 +5129,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C77055"
-			(at 116.205 139.0649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "621981bb-9391-42c5-9631-6216f92d817b")
 		)
@@ -5234,7 +5198,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105580"
+		(property "LCSC" ""
 			(at 70.866 59.055 0)
 			(effects
 				(font
@@ -5379,15 +5343,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C114586"
-			(at 133.985 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "cd7438e4-08cc-4420-8a26-fe49bfd16ec8")
 		)
@@ -5457,15 +5412,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 217.805 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C77055"
-			(at 221.615 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5875,15 +5821,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C116677"
-			(at 233.807 88.011 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "734129c7-3c58-477e-8828-9bb56519ebb1")
 		)
@@ -6012,15 +5949,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 83.82 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C77055"
-			(at 87.63 139.0649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6162,7 +6090,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C437459"
+		(property "LCSC" "C513551"
 			(at 134.493 59.9186 0)
 			(effects
 				(font
@@ -6240,7 +6168,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C105580"
+		(property "LCSC" ""
 			(at 70.866 56.515 0)
 			(effects
 				(font
@@ -6377,15 +6305,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 250.19 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C116677"
-			(at 252.222 50.1649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6859,15 +6778,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C77055"
-			(at 60.96 139.0649 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "91c97c9d-c31e-4fd7-83cc-7b8a3a2ac445")
 		)
@@ -7062,15 +6972,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 78.105 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C114586"
 			(at 78.105 160.02 0)
 			(effects
 				(font
@@ -7284,15 +7185,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C19949064"
-			(at 200.025 57.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "10"
 			(uuid "60cf6e6f-4160-4b85-9991-3e8dffd71a25")
 		)
@@ -7415,15 +7307,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 107.315 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C114586"
 			(at 107.315 160.02 0)
 			(effects
 				(font
@@ -7908,15 +7791,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C668623"
-			(at 52.07 43.942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "B9"
 			(uuid "d6e5d261-22a0-44fe-b0ec-90bd3c4374aa")
 		)
@@ -8084,15 +7958,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 241.3 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C116677"
-			(at 243.332 50.1649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8373,15 +8238,6 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 51.435 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C114586"
 			(at 51.435 160.02 0)
 			(effects
 				(font

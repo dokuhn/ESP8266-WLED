@@ -4320,7 +4320,7 @@
 		(path "/b7486dec-c2aa-424a-9d8c-1c5147df5b47")
 		(sheetname "Root")
 		(sheetfile "ESP8266-WLED.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.95)
@@ -4434,6 +4434,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114586"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e265ca0-8c83-4af9-83c6-17ea2ed7ccc2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -4713,7 +4727,7 @@
 		(path "/dc99ed95-55f1-42e7-9e50-27b4d79db430")
 		(sheetname "Root")
 		(sheetfile "ESP8266-WLED.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.95)
@@ -4836,7 +4850,7 @@
 		(path "/133a9ee1-3d80-44bd-b228-38ec12e0a8ea")
 		(sheetname "Root")
 		(sheetfile "ESP8266-WLED.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.95)
@@ -5413,6 +5427,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C114586"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "74a7d20d-9bdd-407f-a0a6-a5cf8bf4e4f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/a793640d-be06-4271-80c5-3c6c67eb000a")
 		(sheetname "Root")
@@ -5684,6 +5712,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C114586"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6eca2f9e-9086-4b8a-8919-d5379c1621f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/fa5e6adb-8719-47ca-a9ae-d5350f946edd")
 		(sheetname "Root")
@@ -5949,6 +5991,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" "C114586"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c60d7bee-373e-4041-9d90-61a8b20f1dea")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -6228,7 +6284,7 @@
 		(path "/96bcb934-db20-4add-af8a-5ddc1a5643cb")
 		(sheetname "Root")
 		(sheetfile "ESP8266-WLED.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.95)
@@ -8985,8 +9041,8 @@
 				(xy 135.022765 113.847794) (xy 135.022763 113.847793) (xy 134.919992 113.802415) (xy 134.894868 113.7995)
 				(xy 134.894865 113.7995) (xy 134.5245 113.7995) (xy 134.457461 113.779815) (xy 134.411706 113.727011)
 				(xy 134.4005 113.6755) (xy 134.4005 113.040359) (xy 134.420185 112.97332) (xy 134.472989 112.927565)
-				(xy 134.542147 112.917621) (xy 134.605703 112.946646) (xy 134.612181 112.952678) (xy 136.996913 115.33741)
-				(xy 137.100187 115.397036) (xy 137.215375 115.4279) (xy 137.334626 115.4279) (xy 137.924284 115.4279)
+				(xy 134.542147 112.917621) (xy 134.605703 112.946646) (xy 134.612181 112.952678) (xy 136.91259 115.253087)
+				(xy 136.996913 115.33741) (xy 137.100187 115.397036) (xy 137.215375 115.4279) (xy 137.924284 115.4279)
 				(xy 137.991323 115.447585) (xy 138.037078 115.500389) (xy 138.039639 115.50641) (xy 138.065639 115.572343)
 				(xy 138.157077 115.692922) (xy 138.277656 115.78436) (xy 138.277657 115.78436) (xy 138.277658 115.784361)
 				(xy 138.418436 115.839877) (xy 138.506898 115.8505) (xy 138.506903 115.8505) (xy 139.893097 115.8505)
